@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/liyibing/darknet/object/fish_train.txt
+valid  = /home/liyibing/darknet/object/fish_val.txt
+names = /home/liyibing/darknet/object/fish.names
+backup = backup
+
